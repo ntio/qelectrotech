@@ -1,0 +1,25 @@
+<definition hotspot_x="4" orientation="dyyy" hotspot_y="15" type="element" height="30" width="50" version="0.5" link_type="simple">
+    <uuid uuid="{35462b0c-ceeb-429e-98fc-78fa2fb6f7f0}"/>
+    <names>
+        <name lang="es">manguito_20</name>
+    </names>
+    <informations/>
+    <description>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="10" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="-10" x2="40" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="40" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="10" x2="40" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="40" length1="1.5" antialias="false" end2="none" y1="10" length2="1.5" y2="10" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <text x="22" text="20" size="5" y="7"/>
+        <line x1="20" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="-6" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="20" length1="1.5" antialias="false" end2="none" y1="10" length2="1.5" y2="6" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <input rotate="true" x="30" text="_" size="9" tagg="label" y="-23"/>
+        <line x1="2" length1="1.5" antialias="false" end2="none" y1="-12" length2="1.5" y2="-12" x2="38" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="2" length1="1.5" antialias="false" end2="none" y1="12" length2="1.5" y2="12" x2="38" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="38" length1="1.5" antialias="false" end2="none" y1="12" length2="1.5" y2="10" x2="40" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="38" length1="1.5" antialias="false" end2="none" y1="-12" length2="1.5" y2="-10" x2="40" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="2" length1="1.5" antialias="false" end2="none" y1="-12" length2="1.5" y2="-10" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="2" length1="1.5" antialias="false" end2="none" y1="12" length2="1.5" y2="10" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <terminal x="0" orientation="w" y="0"/>
+        <terminal x="40" orientation="e" y="0"/>
+    </description>
+</definition>

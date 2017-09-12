@@ -1,0 +1,30 @@
+<definition hotspot_x="4" orientation="dyyy" hotspot_y="20" type="element" height="40" width="80" version="0.5" link_type="simple">
+    <uuid uuid="{f6e02120-1af0-4f6b-af97-b46503061ade}"/>
+    <names>
+        <name lang="es">racor_loco_20_3-4</name>
+    </names>
+    <informations/>
+    <description>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="10" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <rect x="30.5018" antialias="false" height="30" width="14.0073" style="line-style:normal;line-weight:thin;filling:none;color:brun" y="-15"/>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="-10" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="10" length2="1.5" y2="10" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <rect x="27" antialias="false" height="16.5378" width="3.50182" style="line-style:normal;line-weight:thin;filling:none;color:brun" y="-8"/>
+        <line x1="33.8108" length1="1.5" antialias="false" end2="none" y1="-5.28258" length2="1.5" y2="-5.28258" x2="44.0177" style="line-style:normal;line-weight:thin;filling:none;color:brun" end1="none"/>
+        <line x1="34.0236" length1="1.5" antialias="false" end2="none" y1="6.47196" length2="1.5" y2="6.47196" x2="44.2092" style="line-style:normal;line-weight:thin;filling:none;color:brun" end1="none"/>
+        <arc start="-90" x="30.5018" antialias="true" height="11.8433" width="5.60291" style="line-style:normal;line-weight:thin;filling:none;color:brun" angle="-180" y="-5.28258"/>
+        <arc start="-90" x="30.5018" antialias="true" height="9.71741" width="5.60291" style="line-style:normal;line-weight:thin;filling:none;color:brun" angle="-180" y="-15"/>
+        <line x1="44" length1="1.5" antialias="false" end2="none" y1="-15" length2="1.5" y2="-5.28258" x2="44.5091" style="line-style:normal;line-weight:normal;filling:none;color:brun" end1="none"/>
+        <line x1="44.5417" length1="1.5" antialias="false" end2="none" y1="6.85774" length2="1.5" y2="15" x2="44" style="line-style:normal;line-weight:normal;filling:none;color:brun" end1="none"/>
+        <line x1="20" length1="1.5" antialias="false" end2="none" y1="-12" length2="1.5" y2="-10" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="20" length1="1.5" antialias="false" end2="none" y1="10" length2="1.5" y2="12" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="20" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="10" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <text x="5" text="racor_loco_20-3/4" size="3" y="1"/>
+        <input rotate="true" x="10" text="_" size="9" tagg="label" y="-25"/>
+        <rect x="20" antialias="false" height="20" width="7" style="line-style:normal;line-weight:thin;filling:none;color:brun" y="-10"/>
+        <arc start="180" x="31" antialias="true" height="10" width="4" style="line-style:normal;line-weight:thin;filling:none;color:brun" angle="90" y="5"/>
+        <arc start="90" x="31" antialias="true" height="6" width="4" style="line-style:normal;line-weight:thin;filling:none;color:brun" angle="90" y="7"/>
+        <terminal x="0" orientation="w" y="0"/>
+        <terminal x="71" orientation="e" y="-5"/>
+    </description>
+</definition>

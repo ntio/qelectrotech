@@ -1,0 +1,23 @@
+<definition hotspot_x="7" orientation="dyyy" hotspot_y="15" type="element" height="30" width="30" version="0.5" link_type="simple">
+    <uuid uuid="{055b134e-671e-4d72-98eb-5f8ac8b949d7}"/>
+    <names>
+        <name lang="es">tapon_20</name>
+    </names>
+    <informations/>
+    <description>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="10" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="-10" x2="10" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="10" length2="1.5" y2="10" x2="10" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <arc start="0" x="4" antialias="true" height="20" width="12" style="line-style:normal;line-weight:thin;filling:none;color:green" angle="90" y="-10"/>
+        <arc start="270" x="4" antialias="true" height="20" width="12" style="line-style:normal;line-weight:thin;filling:none;color:green" angle="90" y="-10"/>
+        <text x="4" text="20" size="5" y="7"/>
+        <input rotate="true" x="10" text="_" size="9" tagg="label" y="-18"/>
+        <line x1="1" length1="1.5" antialias="false" end2="none" y1="-12" length2="1.5" y2="-12" x2="10" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="1" length1="1.5" antialias="false" end2="none" y1="12" length2="1.5" y2="12" x2="10" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="1" length1="1.5" antialias="false" end2="none" y1="-12" length2="1.5" y2="-10" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="1" length1="1.5" antialias="false" end2="none" y1="12" length2="1.5" y2="10" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <arc start="0" x="2" antialias="true" height="24" width="16" style="line-style:normal;line-weight:thin;filling:none;color:green" angle="90" y="-12"/>
+        <arc start="270" x="2" antialias="true" height="24" width="16" style="line-style:normal;line-weight:thin;filling:none;color:green" angle="90" y="-12"/>
+        <terminal x="0" orientation="w" y="0"/>
+    </description>
+</definition>

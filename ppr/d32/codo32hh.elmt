@@ -1,0 +1,30 @@
+<definition hotspot_x="6" orientation="dyyy" hotspot_y="7" type="element" height="80" width="80" link_type="simple" version="0.5">
+    <uuid uuid="{071ca7aa-8ebc-48ec-b142-cb69247a109c}"/>
+    <names>
+        <name lang="es">codo_32_HH</name>
+    </names>
+    <informations/>
+    <description>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="0" length2="1.5" y2="0" x2="32" style="line-style:normal;line-weight:thin;filling:green;color:green" end1="none"/>
+        <line x1="32" length1="1.5" antialias="false" end2="none" y1="0" length2="1.5" y2="30" x2="32" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="32" length1="1.5" antialias="false" end2="none" y1="30" length2="1.5" y2="32" x2="32" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="0" length2="1.5" y2="32" x2="0" style="line-style:normal;line-weight:thin;filling:green;color:green" end1="none"/>
+        <line x1="31.7622" length1="1.5" antialias="false" end2="none" y1="32.2378" length2="1.5" y2="32.2378" x2="63.7622" style="line-style:normal;line-weight:thin;filling:green;color:green" end1="none"/>
+        <line x1="64" length1="1.5" antialias="false" end2="none" y1="32" length2="1.5" y2="64" x2="64" style="line-style:normal;line-weight:thin;filling:green;color:green" end1="none"/>
+        <line x1="64" length1="1.5" antialias="false" end2="none" y1="64" length2="1.5" y2="64" x2="32" style="line-style:normal;line-weight:thin;filling:green;color:green" end1="none"/>
+        <arc start="180" x="0" antialias="true" height="64" style="line-style:normal;line-weight:thin;filling:none;color:green" width="64" y="0" angle="90"/>
+        <text x="24" text="32" size="5" y="49"/>
+        <input rotate="true" x="39" text="_" size="9" tagg="label" y="14"/>
+        <line x1="34" length1="1.5" antialias="false" end2="none" y1="2" length2="1.5" y2="30" x2="34" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="34" length1="1.5" antialias="false" end2="none" y1="29.8843" length2="1.5" y2="29.8843" x2="60" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="-2" length1="1.5" antialias="false" end2="none" y1="2" length2="1.5" y2="36" x2="-2" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="33.6528" length1="1.5" antialias="false" end2="none" y1="66" length2="1.5" y2="66" x2="59.6528" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="-2" length1="1.5" antialias="false" end2="none" y1="2" length2="1.5" y2="0" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="34" length1="1.5" antialias="false" end2="none" y1="2" length2="1.5" y2="0" x2="32" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="60" length1="1.5" antialias="false" end2="none" y1="30" length2="1.5" y2="32" x2="64" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="60" length1="1.5" antialias="false" end2="none" y1="66.2314" length2="1.5" y2="64.2314" x2="64" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <arc start="180" x="-2" antialias="true" height="60" style="line-style:normal;line-weight:thin;filling:none;color:green" width="72" y="6" angle="90"/>
+        <terminal x="16" orientation="n" y="0"/>
+        <terminal x="64" orientation="e" y="48"/>
+    </description>
+</definition>

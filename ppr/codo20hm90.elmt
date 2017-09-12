@@ -1,0 +1,24 @@
+<definition type="element" height="50" width="50" hotspot_y="6" orientation="dyyy" version="0.5" link_type="simple" hotspot_x="4">
+    <uuid uuid="{c99dedd3-9a5d-45fd-8d7b-00a7eafed5b7}"/>
+    <names>
+        <name lang="es">codo_20_hm</name>
+    </names>
+    <informations></informations>
+    <description>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="0" x2="20" length1="1.5" x1="0" end2="none" antialias="false" y2="0"/>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="0" x2="20" length1="1.5" x1="20" end2="none" antialias="false" y2="20"/>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="0" x2="0" length1="1.5" x1="0" end2="none" antialias="false" y2="20"/>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="20" x2="22" length1="1.5" x1="20" end2="none" antialias="false" y2="20"/>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="20" x2="22" length1="1.5" x1="22" end2="none" antialias="false" y2="22"/>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="22" x2="40" length1="1.5" x1="22" end2="none" antialias="false" y2="22"/>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="22" x2="40" length1="1.5" x1="40" end2="none" antialias="false" y2="38"/>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="38" x2="22" length1="1.5" x1="40" end2="none" antialias="false" y2="38"/>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="38" x2="22" length1="1.5" x1="22" end2="none" antialias="false" y2="40"/>
+        <line length2="1.5" end1="none" style="line-style:normal;line-weight:thin;filling:none;color:blue" y1="40" x2="20" length1="1.5" x1="22" end2="none" antialias="false" y2="40"/>
+        <arc y="0" x="0" height="40" width="40" style="line-style:normal;line-weight:thin;filling:none;color:blue" angle="90" antialias="true" start="180"/>
+        <text y="28" x="10" text="20" size="4"/>
+        <input y="8" tagg="label" x="22" rotate="true" text="_" size="9"/>
+        <terminal y="0" x="10" orientation="n"/>
+        <terminal y="30" x="40" orientation="e"/>
+    </description>
+</definition>

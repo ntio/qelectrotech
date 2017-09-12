@@ -1,0 +1,17 @@
+<definition hotspot_x="4" orientation="dyyy" hotspot_y="15" type="element" height="30" width="110" version="0.5" link_type="simple">
+    <uuid uuid="{736a6b25-2d81-46f9-aa9f-08eea95d71f1}"/>
+    <names>
+        <name lang="es">tubo_20</name>
+    </names>
+    <informations/>
+    <description>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="-10" x2="100" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="10" length2="1.5" y2="10" x2="100" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="10" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="100" length1="1.5" antialias="false" end2="none" y1="-10" length2="1.5" y2="10" x2="100" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <input rotate="true" x="55" text="_" size="9" tagg="label" y="-20"/>
+        <text x="37" text="20" size="5" y="7"/>
+        <terminal x="100" orientation="e" y="0"/>
+        <terminal x="0" orientation="w" y="0"/>
+    </description>
+</definition>

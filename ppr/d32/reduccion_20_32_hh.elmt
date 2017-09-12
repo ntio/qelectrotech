@@ -1,0 +1,22 @@
+<definition hotspot_x="10" orientation="dyyy" hotspot_y="4" type="element" height="50" width="40" link_type="simple" version="0.5">
+    <uuid uuid="{60bda1d5-e4ee-486b-8843-2727722d4504}"/>
+    <names>
+        <name lang="es">reduccion_20_32_hh</name>
+    </names>
+    <informations/>
+    <description>
+        <line x1="0" length1="1.5" antialias="false" end2="none" y1="0" length2="1.5" y2="0" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="-0.129713" length1="1.5" antialias="false" end2="none" y1="0.0648567" length2="1.5" y2="20.0649" x2="-0.129713" style="line-style:normal;line-weight:hight;filling:none;color:green" end1="none"/>
+        <line x1="20" length1="1.5" antialias="false" end2="none" y1="0" length2="1.5" y2="20" x2="20" style="line-style:normal;line-weight:hight;filling:none;color:green" end1="none"/>
+        <line x1="10" length1="1.5" antialias="false" end2="none" y1="40" length2="1.5" y2="40" x2="26" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="10" length1="1.5" antialias="false" end2="none" y1="40" length2="1.5" y2="40" x2="-6" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line x1="-6" length1="1.5" antialias="false" end2="none" y1="40" length2="1.5" y2="23" x2="-6" style="line-style:normal;line-weight:hight;filling:none;color:green" end1="none"/>
+        <line x1="26" length1="1.5" antialias="false" end2="none" y1="39.8703" length2="1.5" y2="22.8703" x2="26" style="line-style:normal;line-weight:hight;filling:none;color:green" end1="none"/>
+        <arc start="90" x="-6" antialias="true" height="5" style="line-style:normal;line-weight:hight;filling:none;color:green" width="12" y="20" angle="90"/>
+        <arc start="0" x="14" antialias="true" height="5" style="line-style:normal;line-weight:hight;filling:none;color:green" width="12" y="20" angle="90"/>
+        <text x="2" text="20a32" size="5" y="29"/>
+        <input rotate="true" x="23" text="_" size="9" tagg="label" y="8"/>
+        <terminal x="10" orientation="s" y="39"/>
+        <terminal x="10" orientation="n" y="1"/>
+    </description>
+</definition>

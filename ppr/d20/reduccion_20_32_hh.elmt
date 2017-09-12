@@ -1,0 +1,32 @@
+<definition version="0.5" height="50" hotspot_y="4" link_type="simple" orientation="dyyy" type="element" width="40" hotspot_x="10">
+    <uuid uuid="{74ae8765-9cc6-4ae2-ae9b-9cbdb2279574}"/>
+    <names>
+        <name lang="es">reduccion_20_32_hh</name>
+    </names>
+    <informations></informations>
+    <description>
+        <line y2="0" end2="none" length2="1.5" y1="0" antialias="false" length1="1.5" x1="0" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="20.0649" end2="none" length2="1.5" y1="0.0648567" antialias="false" length1="1.5" x1="-0.129713" x2="-0.129713" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="20" end2="none" length2="1.5" y1="0" antialias="false" length1="1.5" x1="20" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="40" end2="none" length2="1.5" y1="40" antialias="false" length1="1.5" x1="10" x2="26" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="40" end2="none" length2="1.5" y1="40" antialias="false" length1="1.5" x1="10" x2="-6" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="23" end2="none" length2="1.5" y1="40" antialias="false" length1="1.5" x1="-6" x2="-6" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="22.8703" end2="none" length2="1.5" y1="39.8703" antialias="false" length1="1.5" x1="26" x2="26" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <arc x="-6" height="5" y="20" start="90" antialias="true" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:green" width="12"/>
+        <arc x="14" height="5" y="20" start="0" antialias="true" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:green" width="12"/>
+        <text x="2" size="5" y="29" text="20a32"/>
+        <input x="23" size="9" y="8" text="_" rotate="true" tagg="label"/>
+        <line y2="18" end2="none" length2="1.5" y1="1" antialias="false" length1="1.5" x1="-2" x2="-2" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="18.0933" end2="none" length2="1.5" y1="1.0933" antialias="false" length1="1.5" x1="22" x2="22" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="39" end2="none" length2="1.5" y1="22" antialias="false" length1="1.5" x1="-8" x2="-8" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="22" end2="none" length2="1.5" y1="39" antialias="false" length1="1.5" x1="28" x2="28" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="0" end2="none" length2="1.5" y1="1" antialias="false" length1="1.5" x1="-2" x2="0" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="0" end2="none" length2="1.5" y1="1" antialias="false" length1="1.5" x1="22" x2="20" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="40.0933" end2="none" length2="1.5" y1="39.0933" antialias="false" length1="1.5" x1="-7.9067" x2="-5.9067" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <line y2="39" end2="none" length2="1.5" y1="40" antialias="false" length1="1.5" x1="26" x2="28" style="line-style:normal;line-weight:thin;filling:none;color:green" end1="none"/>
+        <arc x="-7.8134" height="8" y="18.0933" start="90" antialias="true" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:green" width="12"/>
+        <arc x="16" height="8" y="18" start="0" antialias="true" angle="90" style="line-style:normal;line-weight:thin;filling:none;color:green" width="12"/>
+        <terminal x="10" y="39" orientation="s"/>
+        <terminal x="10" y="1" orientation="n"/>
+    </description>
+</definition>
