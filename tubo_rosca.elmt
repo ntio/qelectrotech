@@ -1,0 +1,20 @@
+<definition type="element" orientation="dyyy" hotspot_y="16" version="0.5" height="30" hotspot_x="6" link_type="simple" width="120">
+    <uuid uuid="{ec0394f8-62ba-4e88-9ad2-e65fcf35c165}"/>
+    <names>
+        <name lang="ca">Tub rosca 3/4"</name>
+        <name lang="es">Tubo rosca 3/4"</name>
+    </names>
+    <informations></informations>
+    <description>
+        <polygon y11="-14" x18="97" style="line-style:normal;line-weight:thin;filling:none;color:gray" y5="-12" y12="-14" x11="95" y14="12" x20="99" y6="-12" y22="12" y15="12" x2="103" y21="10" x8="97" x3="103" y24="10" y2="-12" x19="99" closed="false" x1="105" y19="12" x21="101" y23="12" x5="101" y20="10" x14="93" x16="95" y17="10" y9="-12" x12="93" x10="95" y18="12" x6="99" x4="101" y1="-12" x22="101" y4="-14" x24="103" x15="95" x13="93" x17="97" x9="97" antialias="false" x25="105" y25="10" y3="-14" x7="99" x23="103" y7="-14" y10="-12" y8="-14" y16="10" y13="-12"/>
+        <input tagg="label" x="60" y="-2" rotate="true" text="3/4&quot;" size="5"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:gray" y2="-14" x2="93" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="-14" x1="13"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:gray" y2="12" x2="93" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="12" x1="13"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:gray" y2="12" x2="13" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="-14" x1="13"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:gray" y2="12" x2="93" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="-14" x1="93"/>
+        <polygon y11="-14" x18="4" style="line-style:normal;line-weight:thin;filling:none;color:gray" y5="-12" y12="-14" x11="2" y14="12" x20="6" y6="-12" y22="12" y15="12" x2="10" y21="10" x8="4" x3="10" y24="10" y2="-12" x19="6" closed="false" x1="13.0754" y19="12" x21="8" y23="12" x5="8" y20="10" x14="0" x16="2" y17="10" y9="-12" x12="0" x10="2" y18="12" x6="6" x4="8" y1="-11.8975" x22="8" y4="-14" x24="10" x15="2" x13="0" x17="4" x9="4" antialias="false" x25="12.9576" y25="9.89493" y3="-14" x7="6" x23="10" y7="-14" y10="-12" y8="-14" y16="10" y13="-12"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:gray" y2="10" x2="105" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="-12" x1="105"/>
+        <terminal x="1" orientation="w" y="0"/>
+        <terminal x="105" orientation="e" y="0"/>
+    </description>
+</definition>

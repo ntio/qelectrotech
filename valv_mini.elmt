@@ -1,0 +1,79 @@
+<definition height="50" width="60" link_type="simple" hotspot_x="29" orientation="dyyy" version="0.60" type="element" hotspot_y="32">
+    <uuid uuid="{de47dcc6-e6ea-49f4-b1ff-af3962d0a23f}"/>
+    <names>
+        <name lang="es">valv_3-4</name>
+    </names>
+    <informations>
+     Author: DXF converter
+     License:see http://qelectrotech.org/wiki/doc/elements_license
+     Converter version:V3.0 DB
+
+</informations>
+    <description>
+        <input text="valv_3/4" tagg="label" y="0" x="-10" rotate="true" size="3"/>
+        <polygon y1="-16.23" x1="-7.71" y2="-24.06" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-7.3" antialias="false"/>
+        <polygon y1="-24.9" x1="-6.56" y4="-24.06" y2="-24.83" closed="false" x4="-7.3" style="line-style:normal;line-weight:thin;filling:none;color:red" x2="-6.97" x3="-7.28" y3="-24.48" antialias="false"/>
+        <polygon x6="19.86" x5="19.9" y1="-28.72" x1="20.88" y4="-29.57" x7="19.83" y2="-29.21" closed="false" y6="-29.56" x4="19.94" y7="-29.56" style="line-style:normal;line-weight:thin;filling:none;color:red" x2="20.86" x3="20.43" y3="-29.59" y5="-29.57" antialias="false"/>
+        <polygon y1="-16.23" x1="7.59" y2="-16.23" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="21.54" antialias="false"/>
+        <polygon y1="-12.63" x1="7.59" y2="-16.23" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="7.59" antialias="false"/>
+        <polygon y1="-12.63" x1="-23.06" y2="12.37" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-23.06" antialias="false"/>
+        <polygon y1="-12.63" x1="22.94" y2="12.37" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="22.94" antialias="false"/>
+        <polygon y1="15.46" x1="-0.06" y2="-24.32" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-0.06" antialias="false"/>
+        <polygon y1="-16.23" x1="21.54" y2="-28.72" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="20.88" antialias="false"/>
+        <polygon y1="-12.63" x1="22.94" y2="-12.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-0.06" antialias="false"/>
+        <polygon y1="12.37" x1="22.94" y2="12.37" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-23.06" antialias="false"/>
+        <polygon y1="-12.63" x1="-7.71" y2="-16.23" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-7.71" antialias="false"/>
+        <polygon y1="-12.63" x1="-0.06" y2="-12.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-23.06" antialias="false"/>
+        <polygon y1="-29.56" x1="19.83" y2="-24.9" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-6.56" antialias="false"/>
+        <polygon y1="-0.13" x1="22" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-22.13" antialias="false"/>
+        <polygon x6="-22.57" x5="-22.97" y1="-0.12" x1="-22.06" y4="-6.36" x7="-22.06" y2="-0.12" closed="false" y6="-12.6" x4="-22.97" y7="-12.6" style="line-style:normal;line-weight:thin;filling:none;color:red" x2="-22.57" x3="-22.97" y3="-2.91" y5="-9.8" antialias="false"/>
+        <polygon x6="22.44" x5="22.85" y1="-0.12" x1="21.94" y4="-6.36" x7="21.94" y2="-0.12" closed="false" y6="-12.6" x4="22.85" y7="-12.6" style="line-style:normal;line-weight:thin;filling:none;color:red" x2="22.44" x3="22.85" y3="-2.91" y5="-9.8" antialias="false"/>
+        <polygon x6="22.44" x5="22.85" y1="-0.15" x1="21.94" y4="6.09" x7="21.94" y2="-0.15" closed="false" y6="12.33" x4="22.85" y7="12.33" style="line-style:normal;line-weight:thin;filling:none;color:red" x2="22.44" x3="22.85" y3="2.65" y5="9.54" antialias="false"/>
+        <polygon x6="-22.57" x5="-22.97" y1="-0.15" x1="-22.06" y4="6.09" x7="-22.06" y2="-0.15" closed="false" y6="12.33" x4="-22.97" y7="12.33" style="line-style:normal;line-weight:thin;filling:none;color:red" x2="-22.57" x3="-22.97" y3="2.65" y5="9.54" antialias="false"/>
+        <polygon y1="-12.63" x1="-4.06" y2="-14.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-4.06" antialias="false"/>
+        <polygon y1="-14.63" x1="-4.06" y4="-21.56" y2="-17.49" closed="false" x4="-0.06" style="line-style:normal;line-weight:thin;filling:none;color:red" x2="-4.06" x3="-2.54" y3="-20.13" antialias="false"/>
+        <polygon y1="-14.63" x1="3.94" y4="-21.56" y2="-17.49" closed="false" x4="-0.06" style="line-style:normal;line-weight:thin;filling:none;color:red" x2="3.94" x3="2.41" y3="-20.13" antialias="false"/>
+        <polygon y1="-12.63" x1="3.94" y2="-14.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="3.94" antialias="false"/>
+        <polygon y1="-9.63" x1="-22.31" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-22.31" antialias="false"/>
+        <polygon y1="9.37" x1="-22.31" y2="9.37" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-12.66" antialias="false"/>
+        <polygon y1="10.12" x1="-23.06" y2="9.37" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-22.31" antialias="false"/>
+        <polygon y1="-10.38" x1="-23.06" y2="-9.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-22.31" antialias="false"/>
+        <polygon y1="-10.38" x1="-13.79" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-13.79" antialias="false"/>
+        <polygon y1="10.12" x1="-13.79" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-13.79" antialias="false"/>
+        <polygon y1="10.12" x1="-13.79" y2="9.37" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-13.36" antialias="false"/>
+        <polygon y1="-10.38" x1="-13.79" y2="-9.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-13.36" antialias="false"/>
+        <polygon y1="-10.38" x1="-23.06" y2="-10.38" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-13.79" antialias="false"/>
+        <polygon y1="10.12" x1="-23.06" y2="10.12" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-13.79" antialias="false"/>
+        <polygon y1="9.37" x1="-22.31" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-22.31" antialias="false"/>
+        <polygon y1="9.37" x1="-12.66" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-12.66" antialias="false"/>
+        <polygon y1="-9.63" x1="-22.31" y2="-9.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-12.66" antialias="false"/>
+        <polygon y1="-9.63" x1="-12.66" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-12.66" antialias="false"/>
+        <polygon y1="4.87" x1="-12.6" y2="4.93" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-12.66" antialias="false"/>
+        <polygon y1="-5.13" x1="-0.06" y2="-5.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-12.66" antialias="false"/>
+        <polygon y1="4.87" x1="-0.06" y2="4.87" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-12.66" antialias="false"/>
+        <polygon y1="-9.63" x1="22.19" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="22.19" antialias="false"/>
+        <polygon y1="9.37" x1="22.19" y2="9.37" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="12.54" antialias="false"/>
+        <polygon y1="10.12" x1="22.94" y2="9.37" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="22.19" antialias="false"/>
+        <polygon y1="-10.38" x1="22.94" y2="-9.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="22.19" antialias="false"/>
+        <polygon y1="-10.38" x1="13.67" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="13.67" antialias="false"/>
+        <polygon y1="10.12" x1="13.67" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="13.67" antialias="false"/>
+        <polygon y1="10.12" x1="13.67" y2="9.37" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="13.23" antialias="false"/>
+        <polygon y1="-10.38" x1="13.67" y2="-9.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="13.23" antialias="false"/>
+        <polygon y1="-10.38" x1="22.94" y2="-10.38" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="13.67" antialias="false"/>
+        <polygon y1="10.12" x1="22.94" y2="10.12" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="13.67" antialias="false"/>
+        <polygon y1="9.37" x1="22.19" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="22.19" antialias="false"/>
+        <polygon y1="9.37" x1="12.54" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="12.54" antialias="false"/>
+        <polygon y1="-9.63" x1="22.19" y2="-9.63" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="12.54" antialias="false"/>
+        <polygon y1="-9.63" x1="12.54" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="12.54" antialias="false"/>
+        <polygon y1="4.87" x1="12.48" y2="4.93" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="12.54" antialias="false"/>
+        <polygon y1="-5.13" x1="-0.06" y2="-5.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="12.54" antialias="false"/>
+        <polygon y1="4.87" x1="-0.06" y2="4.87" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="12.54" antialias="false"/>
+        <polygon y1="-1.83" x1="-23.06" y2="1.07" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-23.06" antialias="false"/>
+        <polygon y1="-0.13" x1="-23.92" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="-21.72" antialias="false"/>
+        <polygon y1="-1.83" x1="22.94" y2="1.07" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="22.94" antialias="false"/>
+        <polygon y1="-0.13" x1="23.79" y2="-0.13" closed="false" style="line-style:normal;line-weight:thin;filling:none;color:blue" x2="21.6" antialias="false"/>
+        <input text="_" tagg="label" y="-21" x="16" rotate="true" size="9"/>
+        <terminal orientation="e" y="0" x="22"/>
+        <terminal orientation="w" y="0" x="-22"/>
+    </description>
+</definition>

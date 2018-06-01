@@ -1,0 +1,21 @@
+<definition type="element" link_type="simple" orientation="dyyy" version="0.5" width="150" hotspot_x="59" hotspot_y="106" height="170">
+    <uuid uuid="{24793428-6c61-4f29-ad2b-761770c2349d}"/>
+    <names>
+        <name lang="es">Inodoro perfil</name>
+        <name lang="ca">Inodor perfil</name>
+    </names>
+    <informations></informations>
+    <description>
+        <rect x="-54.8761" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-92.4913" width="46.0601" height="85.4513"/>
+        <ellipse x="-45.6641" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-86.7946" width="6.14135" height="5.69676"/>
+        <arc x="-54.8761" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true" angle="180" start="0" y="-101.036" width="46.0601" height="17.0903"/>
+        <rect x="6.53742" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-12.7369" width="79.8376" height="5.69676"/>
+        <polygon x1="86.375" y2="-4.19172" y14="10.0502" y1="-4.19172" y10="32.8371" x3="-54.8761" y7="55.6241" y15="4.35341" x9="55.6682" x4="-24.1693" y11="27.1404" y6="44.2307" y9="44.2307" y5="32.8371" y4="21.4437" y3="10.0502" x6="-42.5934" x11="43.3855" x2="-54.8761" y17="-1.34333" x16="86.375" y16="-1.34333" x8="55.6682" x7="-42.5934" y18="-1.34333" x10="49.5269" x5="-24.1693" y12="21.4437" x15="86.375" y13="15.7469" x14="80.2336" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y8="55.6241" x13="61.8096" x17="86.375" x18="86.375" x12="43.3855"/>
+        <line y2="49.9274" end2="none" x1="6.53742" length1="1.5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length2="1.5" end1="none" x2="21.8908" y1="49.9274"/>
+        <rect x="-36.452" style="line-style:dashed;line-weight:thin;filling:none;color:red" antialias="false" y="47.0792" width="24.5654" height="11.3935"/>
+        <ellipse x="-2.67461" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y="-9.88846" width="6.14135" height="5.69676"/>
+        <input x="-24.1693" size="4" y="7.20179" tagg="label" rotate="true" text="Inodoro"/>
+        <terminal x="-42.5934" orientation="n" y="-92.4913"/>
+        <terminal x="-24.1693" orientation="s" y="55.6241"/>
+    </description>
+</definition>

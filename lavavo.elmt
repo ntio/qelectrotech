@@ -1,0 +1,21 @@
+<definition hotspot_x="107" orientation="dyyy" width="130" link_type="simple" hotspot_y="108" version="0.5" type="element" height="160">
+    <uuid uuid="{4c182c5c-3547-4e1d-bd50-6cb2a89f9ed3}"/>
+    <names>
+        <name lang="ca">Pica</name>
+        <name lang="es">Lavabo</name>
+    </names>
+    <informations></informations>
+    <description>
+        <line antialias="false" y1="-68.6794" x2="-3.05936" y2="-68.6794" end2="none" x1="-99.3708" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <rect antialias="false" width="8.59204" y="-93.8573" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20.8352" height="16.7852"/>
+        <polygon x7="-20.8352" x4="-50.9074" y3="-93.8573" y9="-85.4648" x8="-20.8352" x5="-46.6113" closed="false" x2="-46.6113" x9="-20.8352" y8="-85.4648" y1="-93.8573" x3="-55.2034" y2="-102.25" antialias="false" x1="-20.8352" x10="-20.8352" y4="-89.661" y10="-85.4648" y7="-85.4648" style="line-style:normal;line-weight:normal;filling:none;color:black" y6="-93.8573" x6="-46.6113" y5="-93.8573"/>
+        <rect antialias="false" width="17.1792" y="-23.6238" style="line-style:dotted;line-weight:normal;filling:none;color:black" x="-1.51157" height="47.6004"/>
+        <polygon x7="-69.7438" x16="-0.346465" x12="-43.3066" x4="-102.79" y3="-72.5831" y9="-47.8606" x8="-40.0021" x5="-99.4853" y11="41.7583" closed="false" x14="-0.346465" y12="44.8486" x2="-102.79" x11="-43.3066" x9="-36.6974" y8="-50.9509" y16="-75.6734" y1="-75.6734" y15="-75.6734" x3="-102.79" y14="-75.6734" y2="-75.6734" x1="-0.346465" antialias="false" x10="-36.6974" y4="-66.4024" y10="38.668" y7="-50.9509" y13="44.8486" x13="-0.346465" style="line-style:normal;line-weight:normal;filling:none;color:black" y6="-57.1315" x6="-89.5715" y5="-63.3121" x15="-0.346465"/>
+        <input rotate="true" tagg="label" text="_" y="-90.8259" x="-6.83292" size="6"/>
+        <line antialias="false" y1="38.668" x2="-1.09361" y2="38.668" end2="none" x1="-36.0077" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <line antialias="false" y1="-47.8606" x2="-3.30742" y2="-47.8606" end2="none" x1="-33.71" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" length1="1.5" length2="1.5"/>
+        <terminal orientation="e" y="-36.5317" x="-1.03518"/>
+        <terminal orientation="e" y="0" x="16"/>
+        <terminal orientation="e" y="-44.3412" x="-1.92714"/>
+    </description>
+</definition>

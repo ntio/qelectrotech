@@ -1,0 +1,21 @@
+<definition height="30" orientation="dyyy" width="60" link_type="simple" hotspot_x="35" hotspot_y="19" version="0.5" type="element">
+    <uuid uuid="{9e862030-1255-4fec-b8be-c5c020f86a4b}"/>
+    <names>
+        <name lang="ca">Vaàlvula de boia</name>
+        <name lang="es">Válvula de Boya</name>
+    </names>
+    <informations>Rafael Ferrando.
+Mantenimiento de Instalaciones Térmicas</informations>
+    <description>
+        <ellipse x="-8" height="4" width="4.15" y="-14" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <ellipse x="-7" height="2" width="1.9" y="-13" style="line-style:normal;line-weight:thin;filling:none;color:black" antialias="true"/>
+        <polygon closed="false" x3="11" x5="-9" y1="-5" y2="5" x2="-9" x4="11" y5="-5" y4="5" x1="-9" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" y3="-5"/>
+        <line length2="1.5" y1="0" y2="-12" x2="-6" end1="none" x1="1" style="line-style:normal;line-weight:normal;filling:none;color:brun" antialias="false" length1="1.5" end2="none"/>
+        <line length2="1.5" y1="0" y2="0" x2="-15" end1="none" x1="-9" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length1="1.5" end2="none"/>
+        <line length2="1.5" y1="0" y2="0" x2="19" end1="none" x1="11" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false" length1="1.5" end2="none"/>
+        <input text="3/4&quot;" x="-1" tagg="label" rotate="true" y="-13" size="4"/>
+        <line length2="1.5" y1="-10" y2="-12" x2="-6" end1="none" x1="-25" style="line-style:normal;line-weight:normal;filling:yellow;color:brun" antialias="false" length1="1.5" end2="none"/>
+        <circle diameter="7" x="-29" y="-13" style="line-style:normal;line-weight:thin;filling:gray;color:black" antialias="false"/>
+        <terminal x="-15" orientation="w" y="0"/>
+    </description>
+</definition>

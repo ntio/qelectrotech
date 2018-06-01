@@ -1,0 +1,27 @@
+<definition hotspot_x="79" orientation="dyyy" width="200" link_type="simple" hotspot_y="122" version="0.5" type="element" height="250">
+    <uuid uuid="{ec1b79cc-d187-490f-962e-741353a8600f}"/>
+    <names>
+        <name lang="ca">Pot sifònic</name>
+        <name lang="es">Bote sifónico</name>
+    </names>
+    <informations>Rafael Ferrando.
+Mantenimiento de Instalaciones Térmicas</informations>
+    <description>
+        <ellipse antialias="true" width="48.6202" y="-81.1178" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-27.3798" height="50.8233"/>
+        <rect antialias="false" width="62.51" y="-74.9883" style="line-style:normal;line-weight:normal;filling:none;color:black" x="55.776" height="50"/>
+        <rect antialias="false" width="20.84" y="50.4082" style="line-style:normal;line-weight:normal;filling:none;color:black" x="54.567" height="40"/>
+        <rect antialias="false" width="152.806" y="-115" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-76" height="16.9411"/>
+        <rect antialias="false" width="110" y="-98.06" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-55.16" height="220"/>
+        <rect antialias="false" width="20.84" y="44.7963" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-76" height="50.82"/>
+        <ellipse antialias="true" width="48.6202" y="12.0583" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-27.3798" height="50.8233"/>
+        <rect antialias="false" width="20.84" y="-70.3117" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-76" height="40"/>
+        <input rotate="true" tagg="label" text="Ø_" y="-128.5" x="-153" size="6"/>
+        <polygon antialias="false" y1="-50.2356" x2="101.589" x4="80.7522" y2="-50.2356" y3="-58.7061" y5="-50.2356" closed="false" x1="59.915" y7="-50.2356" x6="101.589" x7="101.589" style="line-style:normal;line-weight:normal;filling:none;color:black" x5="101.589" y6="-50.2356" x3="80.7522" y4="-41.765"/>
+        <terminal orientation="e" y="70" x="75"/>
+        <terminal orientation="w" y="70" x="-75"/>
+        <terminal orientation="w" y="-50" x="-75"/>
+        <terminal orientation="s" y="120" x="0"/>
+        <terminal orientation="e" y="-50" x="115"/>
+        <terminal orientation="n" y="-115" x="0"/>
+    </description>
+</definition>

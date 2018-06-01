@@ -1,0 +1,37 @@
+<definition type="element" orientation="dyyy" hotspot_y="37" version="0.5" height="60" hotspot_x="5" link_type="simple" width="140">
+    <uuid uuid="{a7b835c7-9b1d-462c-8db1-ad36094c1fce}"/>
+    <names>
+        <name lang="es">Valv bola 32</name>
+    </names>
+    <informations></informations>
+    <description>
+        <polygon x30="110" y21="15" y3="-17" x23="118" y27="13" y17="-15" y39="13" x16="116" y20="-17" y24="13" x5="104" y6="-15" x14="114" x32="108" y26="15" y35="13" y1="-15" x25="116" x11="110" x7="106" x8="108" x6="106" x24="116" x38="102" x12="112" y36="13" x20="120" x27="114" y16="-17" x19="118" x31="110" y5="-15" x9="108" y23="13" y22="15" x34="106" y15="-17" x10="110" y37="15" y30="15" x18="118" closed="false" x36="104" x29="112" x39="102" y19="-17" y18="-15" x2="102" x3="102" x22="118" y31="13" y33="15" x26="114" y12="-17" x35="106" y41="13" x13="112" x17="116" y29="15" y25="15" x15="114" y9="-15" x33="108" y7="-17" y32="13" antialias="false" y8="-17" y10="-15" x41="101" y28="13" y11="-17" y14="-15" y2="-15" x21="120" x37="104" y38="15" x4="104" y34="15" style="line-style:normal;line-weight:thin;filling:none;color:brun" x28="112" y4="-17" y13="-15" x40="101" x1="101" y40="13"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:brun" x="34.3827" start="-180" y="-21.3703" angle="-180" height="19.2858" antialias="true" width="54.8604"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:brun" x="97.2272" start="-90" y="7.05107" angle="-180" height="7.94893" antialias="true" width="12.7746"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:brun" x="14" start="90" y="7.05107" angle="-180" height="7.94893" antialias="true" width="12.3985"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:brun" x="97.2272" y="-17" height="32" antialias="false" width="22.7728"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:brun" x="89.21" y="-16.8124" height="32.2659" antialias="false" width="7.98"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:brun" y2="-9.25" x2="119.5" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="-9.18963" x1="103.772"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:brun" y2="7" x2="120.25" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="7.05107" x1="104.795"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:brun" x="97.2272" start="-90" y="-9.18963" angle="-180" height="16.2407" antialias="true" width="12.7746"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:brun" x="97.2272" start="-90" y="-17" angle="-180" height="7.81036" antialias="true" width="12.7746"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:brun" x="0" y="-17" height="32" antialias="false" width="26.3985"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:brun" x="34.3827" start="0" y="-1.06932" angle="-180" height="21.0693" antialias="true" width="54.8604"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:brun" x="51.2621" y="-26.4454" height="5.07522" antialias="false" width="22.3556"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:brun" x="52.859" y="-33.5507" height="3.04514" antialias="false" width="78.2446"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:brun" x="59.2463" y="-30.5056" height="4.06017" antialias="false" width="6.38731"/>
+        <rect style="line-style:normal;line-weight:thin;filling:none;color:brun" x="26.3985" y="-16.8124" height="31.8124" antialias="false" width="7.98415"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:brun" y2="-22.3852" x2="57.6495" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="-26.4454" x1="57.6495"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:brun" y2="-22.3852" x2="68.8272" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="-26.4454" x1="68.8272"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:brun" y2="-9.18963" x2="18.8907" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="-9.25" x1="-0.25"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:brun" y2="7.05107" x2="18.8657" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="7" x1="0.25"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:brun" x="13.6239" start="90" y="-9.18963" angle="-180" height="16.2407" antialias="true" width="12.7746"/>
+        <arc style="line-style:normal;line-weight:thin;filling:none;color:brun" x="13.6239" start="90" y="-17" angle="-180" height="7.81036" antialias="true" width="12.7746"/>
+        <input tagg="label" x="110" y="-46" rotate="true" text="_" size="9"/>
+        <polygon x30="9" y21="15" y3="-17" x23="17" y27="13" y17="-15" y39="13" x16="15" y20="-17" y24="13" x5="3" y6="-15" x14="13" x32="7" y26="15" y35="13" y1="-15" x25="15" x11="9" x7="5" x8="7" x6="5" x24="15" x38="1" x12="11" y36="13" x20="19" x27="13" y16="-17" x19="17" x31="9" y5="-15" x9="7" y23="13" y22="15" x34="5" y15="-17" x10="9" y37="15" y30="15" x18="17" closed="false" x36="3" x29="11" x39="1" y19="-17" y18="-15" x2="1" x3="1" x22="17" y31="13" y33="15" x26="13" y12="-17" x35="5" y41="13" x13="11" x17="15" y29="15" y25="15" x15="13" y9="-15" x33="7" y7="-17" y32="13" antialias="false" y8="-17" y10="-15" x41="0" y28="13" y11="-17" y14="-15" y2="-15" x21="19" x37="3" y38="15" x4="3" y34="15" style="line-style:normal;line-weight:thin;filling:none;color:brun" x28="11" y4="-17" y13="-15" x40="0" x1="0" y40="13"/>
+        <line style="line-style:normal;line-weight:thin;filling:none;color:brun" y2="15" x2="101" end1="none" end2="none" length2="1.5" length1="1.5" antialias="false" y1="-17" x1="101"/>
+        <text x="58" y="5" text="32" size="5"/>
+        <terminal x="120" orientation="e" y="0"/>
+        <terminal x="0" orientation="w" y="0"/>
+    </description>
+</definition>
